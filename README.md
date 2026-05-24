@@ -28,6 +28,7 @@ This project is an ESP32-based closed-loop linear actuator control system. It us
 ## Pin Configuration
 
 | Component | ESP32 Pin |
+|---|---|
 | Step pin | GPIO 21 |
 | Direction pin | GPIO 19 |
 | Enable pin | GPIO 18 |
